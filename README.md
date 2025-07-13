@@ -114,5 +114,3 @@ Crafted by **Delvin233** – inspired by classic platformers and Godot tutorials
 Want to learn more? Feel free to drop a message!
 
 Happy game‑making! 🚀
-
-```
